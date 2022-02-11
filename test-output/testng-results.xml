@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MyFirstHybridFramework" duration-ms="149653" started-at="2022-02-09T20:42:38 IST" finished-at="2022-02-09T20:45:07 IST">
+    <groups>
+    </groups>
+    <test name="Guru99BankingApp Test" duration-ms="149653" started-at="2022-02-09T20:42:38 IST" finished-at="2022-02-09T20:45:07 IST">
+      <class name="com.guru99.qa.pagesTest.TC_LoginPage_DDT_002">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="6673" started-at="2022-02-09T20:42:59 IST" finished-at="2022-02-09T20:43:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="7782" started-at="2022-02-09T20:43:05 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:43:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="168" started-at="2022-02-09T20:43:13 IST" finished-at="2022-02-09T20:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="6254" started-at="2022-02-09T20:43:13 IST" finished-at="2022-02-09T20:43:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="5017" started-at="2022-02-09T20:43:20 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:43:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="144" started-at="2022-02-09T20:43:25 IST" finished-at="2022-02-09T20:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="6358" started-at="2022-02-09T20:43:25 IST" finished-at="2022-02-09T20:43:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="4988" started-at="2022-02-09T20:43:31 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:43:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="190" started-at="2022-02-09T20:43:36 IST" finished-at="2022-02-09T20:43:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="7121" started-at="2022-02-09T20:43:36 IST" finished-at="2022-02-09T20:43:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="5913" started-at="2022-02-09T20:43:43 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:43:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="174" started-at="2022-02-09T20:43:49 IST" finished-at="2022-02-09T20:43:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="7003" started-at="2022-02-09T20:43:50 IST" finished-at="2022-02-09T20:43:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="5048" started-at="2022-02-09T20:43:57 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:44:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="186" started-at="2022-02-09T20:44:02 IST" finished-at="2022-02-09T20:44:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="6939" started-at="2022-02-09T20:44:02 IST" finished-at="2022-02-09T20:44:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="4775" started-at="2022-02-09T20:44:09 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:44:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="122" started-at="2022-02-09T20:44:14 IST" finished-at="2022-02-09T20:44:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="6107" started-at="2022-02-09T20:44:14 IST" finished-at="2022-02-09T20:44:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="4589" started-at="2022-02-09T20:44:20 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:44:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="265" started-at="2022-02-09T20:44:24 IST" finished-at="2022-02-09T20:44:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="6919" started-at="2022-02-09T20:44:25 IST" finished-at="2022-02-09T20:44:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="5733" started-at="2022-02-09T20:44:32 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:44:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="235" started-at="2022-02-09T20:44:37 IST" finished-at="2022-02-09T20:44:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="setUp" is-config="true" duration-ms="5950" started-at="2022-02-09T20:44:37 IST" finished-at="2022-02-09T20:44:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageDDT(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="loginPageDDT" duration-ms="4847" started-at="2022-02-09T20:44:43 IST" data-provider="LoginPageDDT" finished-at="2022-02-09T20:44:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr384140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[EmEpApE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPage_DDT_002@462d5aee]" name="tearDown" is-config="true" duration-ms="161" started-at="2022-02-09T20:44:48 IST" finished-at="2022-02-09T20:44:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.qa.pagesTest.TC_LoginPage_DDT_002 -->
+      <class name="com.guru99.qa.pagesTest.TC_LoginPageTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPageTest_001@1500955a]" name="setUp" is-config="true" duration-ms="8739" started-at="2022-02-09T20:42:38 IST" finished-at="2022-02-09T20:42:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPage_TC001()[pri:1, instance:com.guru99.qa.pagesTest.TC_LoginPageTest_001@1500955a]" name="LoginPage_TC001" duration-ms="439" started-at="2022-02-09T20:42:47 IST" finished-at="2022-02-09T20:42:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage_TC001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPageTest_001@1500955a]" name="tearDown" is-config="true" duration-ms="196" started-at="2022-02-09T20:42:47 IST" finished-at="2022-02-09T20:42:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPageTest_001@1500955a]" name="setUp" is-config="true" duration-ms="7424" started-at="2022-02-09T20:42:47 IST" finished-at="2022-02-09T20:42:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPage_TC002()[pri:2, instance:com.guru99.qa.pagesTest.TC_LoginPageTest_001@1500955a]" name="LoginPage_TC002" duration-ms="2682" started-at="2022-02-09T20:42:55 IST" finished-at="2022-02-09T20:42:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage_TC002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_LoginPageTest_001@1500955a]" name="tearDown" is-config="true" duration-ms="106" started-at="2022-02-09T20:42:57 IST" finished-at="2022-02-09T20:42:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.qa.pagesTest.TC_LoginPageTest_001 -->
+      <class name="com.guru99.qa.pagesTest.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.qa.pagesTest.TC_AddCustomerTest_003@69b0fd6f]" name="setUp" is-config="true" duration-ms="6265" started-at="2022-02-09T20:44:48 IST" finished-at="2022-02-09T20:44:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:-1, instance:com.guru99.qa.pagesTest.TC_AddCustomerTest_003@69b0fd6f]" name="addNewCustomer" duration-ms="12220" started-at="2022-02-09T20:44:55 IST" finished-at="2022-02-09T20:45:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99.qa.pagesTest.TC_AddCustomerTest_003@69b0fd6f]" name="tearDown" is-config="true" duration-ms="240" started-at="2022-02-09T20:45:07 IST" finished-at="2022-02-09T20:45:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.qa.pagesTest.TC_AddCustomerTest_003 -->
+    </test> <!-- Guru99BankingApp Test -->
+  </suite> <!-- MyFirstHybridFramework -->
+</testng-results>

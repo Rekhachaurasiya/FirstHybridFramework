@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [MyFirstHybridFramework]">
+  <listeners>
+    <listener class-name="com.guru99.qa.utilities.ListenerTest"/>
+    <listener class-name="com.guru99.qa.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Guru99BankingApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.guru99.qa.pagesTest.TC_LoginPageTest_001">
+        <methods>
+          <include name="LoginPage_TC001"/>
+          <include name="LoginPage_TC002"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.guru99.qa.pagesTest.TC_LoginPageTest_001 -->
+      <class name="com.guru99.qa.pagesTest.TC_LoginPage_DDT_002">
+        <methods>
+          <include name="loginPageDDT" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.guru99.qa.pagesTest.TC_LoginPage_DDT_002 -->
+      <class name="com.guru99.qa.pagesTest.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.guru99.qa.pagesTest.TC_AddCustomerTest_003 -->
+    </classes>
+  </test> <!-- Guru99BankingApp Test(failed) -->
+</suite> <!-- Failed suite [MyFirstHybridFramework] -->
